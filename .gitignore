@@ -1,0 +1,61 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Kotlin compiler build directory
+out/
+
+# ============================
+# Gradle
+# ============================
+
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradlew
+!gradlew.bat
+
+# Gradle caches
+**/build/
+
+# Local properties
+local.properties
+
+# ============================
+# IntelliJ IDEA
+# ============================
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ============================
+# OS files
+# ============================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+# Linux
+*~
+# ============================
+# Exercism specific
+# ============================
+
+*.orig
+*.tmp
+# Archives
+*.zip
+*.tar.gz
+*.tar
