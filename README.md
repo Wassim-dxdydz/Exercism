@@ -9,9 +9,10 @@ I’m currently working through the **Kotlin** track, and I’ll add more langua
 
 ## 📁 Progress
 
-| Language | Status | Exercises Completed |
-| :--- | :--- | :--- |
-| **Kotlin** | Learning / Just Started | **5** |
+| Language | Status | Exercises Completed | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge) | ![Medium](https://img.shields.io/badge/Medium-orange?style=for-the-badge) | ![Hard](https://img.shields.io/badge/Hard-red?style=for-the-badge) |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| **Kotlin** | Learning / Just Started | **5** | **5** | **0** | **0** |
+
 
 ---
 
